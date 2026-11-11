@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/bill-and-sons-air-comfort-hvac-tampa/sitemap.xml
+Sitemap: https://local-business-guides.github.io/bill-and-sons-air-comfort-hvac-tampa/news-sitemap.xml

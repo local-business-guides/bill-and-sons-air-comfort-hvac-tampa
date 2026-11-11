@@ -25,6 +25,9 @@
 - [Best HVAC Contractor Fl Tampa](https://local-business-guides.github.io/bill-and-sons-air-comfort-hvac-tampa/best-hvac-contractor-fl-tampa/): Best HVAC Contractor Fl Tampa, get practical guidance for home heating and cooling in Tampa, FL. Call Bill & Sons Air Comfort HVAC to discuss your needs.
 - [Top Rated HVAC Contractor Fl Tampa](https://local-business-guides.github.io/bill-and-sons-air-comfort-hvac-tampa/top-rated-hvac-contractor-fl-tampa/): Top Rated HVAC Contractor Fl Tampa, get help planning residential HVAC service in Tampa, FL. Call Bill & Sons Air Comfort HVAC to discuss your home.
 
+## Newsroom
+- [Tampa HVAC Business Releases Guide With Related Video and Audio](https://local-business-guides.github.io/bill-and-sons-air-comfort-hvac-tampa/news/2026-11-11-tampa-hvac-business-releases-guide-with-related/): Bill & Sons Air Comfort HVAC published a Tampa residential HVAC guide this week, with a related video, podcast episode and SoundCloud audio. (2026-11-11)
+
 ## Pages
 - [HVAC Contractor in Tampa, Florida](https://local-business-guides.github.io/bill-and-sons-air-comfort-hvac-tampa/): Residential heating and cooling help for Tampa homes, with a local point of contact for your HVAC needs. Call +1813-820-4441.
 - [About Bill & Sons Air Comfort HVAC](https://local-business-guides.github.io/bill-and-sons-air-comfort-hvac-tampa/about/): About Bill & Sons Air Comfort HVAC, Tampa.
@@ -32,4 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/bill-and-sons-air-comfort-hvac-tampa/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/bill-and-sons-air-comfort-hvac-tampa/news/rss.xml)
 - [Main resource site](https://bill-sons-air-comfort-tampa.localbusinesses1.chatgpt.site)
